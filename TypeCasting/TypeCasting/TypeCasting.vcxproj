@@ -131,9 +131,6 @@
     <ClCompile Include="TypeCasting.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ascii-codes.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="BaseConversion.h" />
     <ClInclude Include="lib.h" />
   </ItemGroup>
